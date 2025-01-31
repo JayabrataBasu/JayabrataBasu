@@ -4,7 +4,7 @@
 </p>
 
 <p align="center"> 
-I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>spare time</del> full time 🙃
+I like coding, github ftw
 </p>
 
 <br/>
@@ -18,9 +18,7 @@ I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>
 	  
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-☞ 〔 ⚪️ 〕
-
-
+☞ 〔 ⚪️ 〕I like Stats and Finance!📊
 
 ☞ 〔 🤾 〕20
 
@@ -28,7 +26,7 @@ I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>
 
 ☞ 〔 👀 〕![](https://komarev.com/ghpvc/?username=JayabrataBasu&color=dc143c)
 
-☞ 〔 🐼 〕Web Development - DevOps - IoT
+☞ 〔 🐼 〕Machine Learning - IOT - Web Development
 
 <br>
 
@@ -46,25 +44,25 @@ I promise I'll update this one day.😉
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Github Actions](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) ![FreecodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 
-### VikashPR.com speed:
+### JayabrataBasu.com speed:
 
-<img width="46%" src="metrics/pagespeed-detailed.svg"> <img  width="46%" src="metrics/coding_habits.svg" alt="Vikash's Most used lang" />
+<img width="46%" src="metrics/pagespeed-detailed.svg"> <img  width="46%" src="metrics/coding_habits.svg" alt="Jay's Most used lang" />
 
 ### Github Stats:
 
 | <img width="450em" src="https://github-profile-trophy.vercel.app/?username=JayabrataBasu&theme=onestar&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JayabrataBasu&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Vikash's Most used lang" /> |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=JayabrataBasu&theme=vue-dark" alt="JayabrataBasu Streak" />                                           |  <img width="450em" align="center" alt="vikash's Github stats"  src="https://github-readme-stats.vercel.app/api?username=JayabrataBasu&show_icons=true&count_private=true&theme=vue-dark" />   |
+|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=JayabrataBasu&theme=vue-dark" alt="JayabrataBasu Streak" />                                           |  <img width="450em" align="center" alt="My Github stats"  src="https://github-readme-stats.vercel.app/api?username=JayabrataBasu&show_icons=true&count_private=true&theme=vue-dark" />   |
 
 ### Github contributions:
 
 <!-- <h4 align="center">My contribution graph</h4>
-<p align="center"> <img width="900em" src="https://github-readme-activity-graph.vercel.app/graph?username=vikashpr&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Vikash's Github Graph" /> </p> 
+<p align="center"> <img width="900em" src="https://github-readme-activity-graph.vercel.app/graph?username=JayabrataBasu&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Jay's Github Graph" /> </p> 
 -->
 
 <h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4>
 
-<p align="center"> <img  width="900em" alt="vikash2806's Github comitte snake"  src="https://github.com/VikashPR/VikashPR/blob/output/github-contribution-grid-snake-dark.svg" /> </p> 
+<p align="center"> <img  width="900em" alt="Jayabrata's Github comitte snake"  src="https://github.com/JayabrataBasu/JayabrataBasu/blob/output/github-contribution-grid-snake-dark.svg" /> </p> 
 <h4 align="center">Isometric view of contributions in the last year.</h4>
 	  
 <p align="center">
