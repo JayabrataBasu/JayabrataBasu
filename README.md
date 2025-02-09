@@ -23,10 +23,6 @@ A CS student with big dreams😁<br>Currently working on using Natural Language 
 ![](https://github-readme-stats.vercel.app/api?username=JayabrataBasu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JayabrataBasu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayabrataBasu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<div align=center>
-  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=JayabrataBasu&show_icons=true&locale=en&layout=compact" alt="JayabrataBasu" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=JayabrataBasu&show_icons=true&locale=en" alt="JayabrataBasu" />
-</div>
 
   
 
