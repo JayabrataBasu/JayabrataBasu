@@ -1,0 +1,10 @@
+snake:
+  color: green
+  size: medium
+  speed: normal
+contributions:
+  - date: YYYY-MM-DD
+    count: X
+visualization:
+  style: ascii
+  frame_rate: 30
