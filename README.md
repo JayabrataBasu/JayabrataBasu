@@ -17,9 +17,9 @@ Fun Fact: I don't know how to name repos
 
 
 ## 🏆 GitHub Stats
-| <img width="450em" src="https://github-profile-trophy.vercel.app/?username=JayabrataBasu&theme=onedark&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JayabrataBasu&show_icons=true&locale=en&layout=compact&theme=onedark"/> |
+| <img width="480em" src="https://github-profile-trophy.vercel.app/?username=JayabrataBasu&theme=onedark&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JayabrataBasu&show_icons=true&locale=en&layout=compact&theme=onedark"/>  |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=JayabrataBasu&theme=onedark" alt="My Streak" />                                           |  <img width="450em" align="center" alt="Github stats"  src="https://github-readme-stats.vercel.app/api?username=JayabrataBasu&show_icons=true&count_private=true&theme=onedark" />   |
+|                                           [![GitHub Streak](https://github-readme-streak-stats-indol-nine.vercel.app?user=JayabrataBasu&theme=onedark)](https://git.io/streak-stats)                                           |  <img width="450em" align="center" alt="Github stats"  src="https://github-readme-stats.vercel.app/api?username=JayabrataBasu&show_icons=true&count_private=true&theme=onedark" />   |
 
 
 ## Advanced Stats
