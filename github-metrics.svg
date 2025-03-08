@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="94.62792676861686" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="94.62792676861686" y="0" width="93.12941342002128" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="187.75734018863812" y="0" width="91.3347032217783" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="279.0920434104164" y="0" width="43.98051279946768" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="323.0725562098841" y="0" width="41.63341120787617" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="364.70596741776023" y="0" width="36.17466957059567" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="400.8806369883559" y="0" width="33.66935661166594" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="434.5499936000218" y="0" width="25.45000639997811" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="97.61343924591212" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="97.61343924591212" y="0" width="94.21631444787474" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="191.82975369378687" y="0" width="70.17077244216787" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="262.0005261359547" y="0" width="53.8425966522836" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="315.8431227882383" y="0" width="45.36809862327759" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="361.2112214115159" y="0" width="37.31598092605976" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="398.52720233757566" y="0" width="37.31273541308224" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="435.83993775065784" y="0" width="24.16006224934208" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -237,27 +237,27 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Python
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Jupyter Notebook
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Kotlin
+                        Python
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Kotlin
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -273,9 +273,9 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        CSS
+                        HTML
                     </div>
                 </div>
             </section>
@@ -285,12 +285,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 35 commits)</small>
+                    <small class="h-details">(computed from last 36 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 40.1 characters per line of code written</li>
+                        <li>Has approximately 39.9 characters per line of code written</li>
                         <li>Mostly pushes code around 00:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -422,12 +422,12 @@
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                 </g>
                             </g>
-                            <path transform="translate(10,10)" d="M10,10L29.565,57.5L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,81.25L244.783,69.375L264.348,105L283.913,93.125L303.478,105L323.043,93.125L342.609,93.125L362.174,81.25L381.739,81.25L401.304,81.25L420.87,81.25L440.435,69.375L460,57.5" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,57.5L440.435,69.375L420.87,81.25L401.304,81.25L381.739,81.25L362.174,81.25L342.609,93.125L323.043,93.125L303.478,105L283.913,93.125L264.348,105L244.783,69.375L225.217,81.25L205.652,105L186.087,105L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,105L49.13,105L29.565,57.5L10,10Z" fill="rgba(88, 166, 255, .1)"/>
+                            <path transform="translate(10,10)" d="M10,10L29.565,57.5L49.13,93.125L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,81.25L244.783,69.375L264.348,105L283.913,93.125L303.478,105L323.043,93.125L342.609,93.125L362.174,81.25L381.739,81.25L401.304,81.25L420.87,81.25L440.435,69.375L460,57.5" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,57.5L440.435,69.375L420.87,81.25L401.304,81.25L381.739,81.25L362.174,81.25L342.609,93.125L323.043,93.125L303.478,105L283.913,93.125L264.348,105L244.783,69.375L225.217,81.25L205.652,105L186.087,105L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,105L49.13,93.125L29.565,57.5L10,10Z" fill="rgba(88, 166, 255, .1)"/>
                             <g>
                                 <circle transform="translate(10,10)" cx="10" cy="10" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="29.565217391304348" cy="57.5" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="49.130434782608695" cy="105" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="49.130434782608695" cy="93.125" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="68.69565217391305" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="88.26086956521739" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="107.82608695652173" cy="105" r="2" fill="#106cbc"/>
@@ -453,7 +453,7 @@
                             <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
                                 <text transform="translate(10,6)" x="10" y="10" fill="rgba(127, 127, 127, .8)">8</text>
                                 <text transform="translate(10,6)" x="29.565217391304348" y="57.5" fill="rgba(127, 127, 127, .8)">4</text>
-                                <text transform="translate(10,6)" x="49.130434782608695" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                <text transform="translate(10,6)" x="49.130434782608695" y="93.125" fill="rgba(127, 127, 127, .8)">1</text>
                                 <text transform="translate(10,6)" x="68.69565217391305" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="88.26086956521739" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="107.82608695652173" y="105" fill="rgba(127, 127, 127, .8)"/>
@@ -529,10 +529,10 @@
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                     </g>
                                 </g>
-                                <path transform="translate(10,10)" d="M10,86L41,86L72,76.5L103,38.5L134,67L165,38.5L196,10" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,10L165,38.5L134,67L103,38.5L72,76.5L41,86L10,86Z" fill="rgba(88, 166, 255, .1)"/>
+                                <path transform="translate(10,10)" d="M10,76.5L41,86L72,76.5L103,38.5L134,67L165,38.5L196,10" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,10L165,38.5L134,67L103,38.5L72,76.5L41,86L10,76.5Z" fill="rgba(88, 166, 255, .1)"/>
                                 <g>
-                                    <circle transform="translate(10,10)" cx="10" cy="86" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="10" cy="76.5" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="41" cy="86" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="72" cy="76.5" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="103" cy="38.5" r="2" fill="#106cbc"/>
@@ -541,7 +541,7 @@
                                     <circle transform="translate(10,10)" cx="196" cy="10" r="2" fill="#106cbc"/>
                                 </g>
                                 <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
-                                    <text transform="translate(10,6)" x="10" y="86" fill="rgba(127, 127, 127, .8)">2</text>
+                                    <text transform="translate(10,6)" x="10" y="76.5" fill="rgba(127, 127, 127, .8)">3</text>
                                     <text transform="translate(10,6)" x="41" y="86" fill="rgba(127, 127, 127, .8)">2</text>
                                     <text transform="translate(10,6)" x="72" y="76.5" fill="rgba(127, 127, 127, .8)">3</text>
                                     <text transform="translate(10,6)" x="103" y="38.5" fill="rgba(127, 127, 127, .8)">7</text>
@@ -2719,6 +2719,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#7345fbe</div>
+                                        <div class="message">We gotta go again, screw Ai man</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">JayabrataBasu/HarvestForGood</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#af130ec</div>
                                         <div class="message">May god forgive me, I hate AI.</div>
                                     </div>
@@ -2781,26 +2801,6 @@
                                     <div class="commit">
                                         <div class="sha">#50c6934</div>
                                         <div class="message">ALex-Net TL. 3/5 rating</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">JayabrataBasu/HCA-Repo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#839260d</div>
-                                        <div class="message">Radiomics inconclusive. only 1% applicable. Texture analysis is quite something.</div>
                                     </div>
                                 </div>
                             </section>
@@ -3188,7 +3188,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.10m out of 237m repositories</span>
+                                    <span class="gh">ranked 3.10m out of 239m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
@@ -3240,7 +3240,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Mar 2025, 01:33:07 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Mar 2025, 02:31:54 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
