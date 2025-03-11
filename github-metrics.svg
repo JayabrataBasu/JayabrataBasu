@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            132 Commits
+                            133 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="90.24335470933667" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="90.24335470933667" y="0" width="89.6946977448037" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="179.93805245414038" y="0" width="87.1027222256389" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="267.04077467977925" y="0" width="58.29480248162913" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="325.33557716140837" y="0" width="41.94268174727861" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="367.278258908687" y="0" width="35.887309139499386" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="403.16556804818634" y="0" width="34.49852119802528" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="437.66408924621163" y="0" width="22.335910753788323" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="90.3020882674355" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="90.3020882674355" y="0" width="89.75307421759904" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="180.05516248503451" y="0" width="87.15941174934824" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="267.2145742343827" y="0" width="58.03335857107158" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="325.2479328054543" y="0" width="41.96997952386458" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="367.2179123293189" y="0" width="35.910665866021176" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="403.12857819534" y="0" width="34.52097405237266" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="437.64955224771273" y="0" width="22.35044775228725" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -3166,7 +3166,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.11m out of 233m repositories</span>
+                                    <span class="gh">ranked 3.11m out of 232m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
@@ -3218,7 +3218,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Mar 2025, 00:35:37 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Mar 2025, 01:39:38 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
