@@ -6,7 +6,7 @@ A CS student with big dreams😁<br>Currently working on using Natural Language 
 
 Madness is the solution, not the problem...
 
-Fun Fact: I don't know how to name repos 
+Fun Fact: I don't know how to name repos!
 
 ## 🌐 Socials:
 
