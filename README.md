@@ -40,6 +40,7 @@ Fun Fact: I don't know how to name repos!
 - Python
 - HTML/CSS
 - Git/GitHub
+- Kotlin 
 
 <!---
 JayabrataBasu/JayabrataBasu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
