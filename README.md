@@ -2,7 +2,8 @@
 
 # 💫 About Me:
 
-A CS student with big dreams😁<br>Currently working on using Natural Language Processing on my projects🌱<br>Learning MERN stack, Pytorch, and TensorFlow🔥<br>Coffee Addict☕<br>Hoping to collaborate on ML projects and research!🔬<br>Hope to learn a lot through my journey💫
+They say the world is littered with the ruins of empires that belived themselves to be immortal...
+On a similar note, this account is littered with projects that will never be finished...
 
 Madness is the solution, not the problem...
 
