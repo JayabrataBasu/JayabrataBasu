@@ -7,7 +7,7 @@ On a similar note, this account is littered with projects that will never be fin
 
 Madness is the solution, not the problem...
 
-Fun Fact: I don't know how to name repos!
+I also don't know how to name repos!
 
 ## 🌐 Socials:
 
