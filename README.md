@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Jayabrata Basu</h1>
+<h1 align="center">I'm Jayabrata Basu</h1>
 
-# 💫 About Me:
+
 
 They say the world is littered with the ruins of empires that belived themselves to be immortal...
 On a similar note, this account is littered with projects that will never be finished...
 
 Madness is the solution, not the problem...
 
-I also don't know how to name repos!
+I don't know how to name repos.
 
 ## 🌐 Socials:
 
@@ -41,7 +41,9 @@ I also don't know how to name repos!
 - Python
 - HTML/CSS
 - Git/GitHub
-- Kotlin 
+- Kotlin
+- Dart
+- C/C++
 
 <!---
 JayabrataBasu/JayabrataBasu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
