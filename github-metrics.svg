@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            477 Commits
+                            478 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="150.0465854992192" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="150.0465854992192" y="0" width="141.10536508389293" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="291.1519505831121" y="0" width="51.26309772595208" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="342.4150483090642" y="0" width="35.32709980371422" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="377.74214811277847" y="0" width="34.098156022573775" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="411.84030413535226" y="0" width="17.293474054054645" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="429.1337781894069" y="0" width="16.139535443609148" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="445.273313633016" y="0" width="14.72668636698401" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="150.0779542607042" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="150.0779542607042" y="0" width="141.13486459250782" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="291.212818853212" y="0" width="51.27381479678843" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="342.48663365000044" y="0" width="35.33448529245435" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="377.8211189424548" y="0" width="34.105284588144215" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="411.92640353059903" y="0" width="17.29708943031292" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="429.2234929609119" y="0" width="16.142909577289867" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="445.3664025382018" y="0" width="14.63359746179818" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -285,7 +285,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 57 commits)</small>
+                    <small class="h-details">(computed from last 58 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -414,8 +414,8 @@
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                 </g>
                             </g>
-                            <path transform="translate(10,10)" d="M10,97.692L29.565,75.769L49.13,83.077L68.696,97.692L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,97.692L303.478,83.077L323.043,97.692L342.609,75.769L362.174,97.692L381.739,105L401.304,10L420.87,17.308L440.435,46.538L460,68.462" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,68.462L440.435,46.538L420.87,17.308L401.304,10L381.739,105L362.174,97.692L342.609,75.769L323.043,97.692L303.478,83.077L283.913,97.692L264.348,105L244.783,105L225.217,105L205.652,105L186.087,105L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,97.692L49.13,83.077L29.565,75.769L10,97.692Z" fill="rgba(88, 166, 255, .1)"/>
+                            <path transform="translate(10,10)" d="M10,97.692L29.565,75.769L49.13,83.077L68.696,97.692L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,97.692L264.348,105L283.913,97.692L303.478,83.077L323.043,97.692L342.609,75.769L362.174,97.692L381.739,105L401.304,10L420.87,17.308L440.435,46.538L460,68.462" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,68.462L440.435,46.538L420.87,17.308L401.304,10L381.739,105L362.174,97.692L342.609,75.769L323.043,97.692L303.478,83.077L283.913,97.692L264.348,105L244.783,97.692L225.217,105L205.652,105L186.087,105L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,97.692L49.13,83.077L29.565,75.769L10,97.692Z" fill="rgba(88, 166, 255, .1)"/>
                             <g>
                                 <circle transform="translate(10,10)" cx="10" cy="97.69230769230771" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="29.565217391304348" cy="75.76923076923077" r="2" fill="#106cbc"/>
@@ -429,7 +429,7 @@
                                 <circle transform="translate(10,10)" cx="186.08695652173913" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="205.65217391304347" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="225.2173913043478" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="244.7826086956522" cy="105" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="244.7826086956522" cy="97.69230769230771" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="264.3478260869565" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="283.9130434782609" cy="97.69230769230771" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="303.4782608695652" cy="83.07692307692307" r="2" fill="#106cbc"/>
@@ -455,7 +455,7 @@
                                 <text transform="translate(10,6)" x="186.08695652173913" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="205.65217391304347" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="225.2173913043478" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="244.7826086956522" y="105" fill="rgba(127, 127, 127, .8)"/>
+                                <text transform="translate(10,6)" x="244.7826086956522" y="97.69230769230771" fill="rgba(127, 127, 127, .8)">1</text>
                                 <text transform="translate(10,6)" x="264.3478260869565" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="283.9130434782609" y="97.69230769230771" fill="rgba(127, 127, 127, .8)">1</text>
                                 <text transform="translate(10,6)" x="303.4782608695652" y="83.07692307692307" fill="rgba(127, 127, 127, .8)">3</text>
@@ -525,12 +525,12 @@
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                     </g>
                                 </g>
-                                <path transform="translate(10,10)" d="M10,16.333L41,22.667L72,67L103,54.333L134,105L165,98.667L196,10" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,10L165,98.667L134,105L103,54.333L72,67L41,22.667L10,16.333Z" fill="rgba(88, 166, 255, .1)"/>
+                                <path transform="translate(10,10)" d="M10,16.333L41,22.667L72,60.667L103,54.333L134,105L165,98.667L196,10" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,10L165,98.667L134,105L103,54.333L72,60.667L41,22.667L10,16.333Z" fill="rgba(88, 166, 255, .1)"/>
                                 <g>
                                     <circle transform="translate(10,10)" cx="10" cy="16.333333333333332" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="41" cy="22.666666666666664" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="72" cy="67" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="72" cy="60.666666666666664" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="103" cy="54.333333333333336" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="134" cy="105" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="165" cy="98.66666666666667" r="2" fill="#106cbc"/>
@@ -539,7 +539,7 @@
                                 <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
                                     <text transform="translate(10,6)" x="10" y="16.333333333333332" fill="rgba(127, 127, 127, .8)">14</text>
                                     <text transform="translate(10,6)" x="41" y="22.666666666666664" fill="rgba(127, 127, 127, .8)">13</text>
-                                    <text transform="translate(10,6)" x="72" y="67" fill="rgba(127, 127, 127, .8)">6</text>
+                                    <text transform="translate(10,6)" x="72" y="60.666666666666664" fill="rgba(127, 127, 127, .8)">7</text>
                                     <text transform="translate(10,6)" x="103" y="54.333333333333336" fill="rgba(127, 127, 127, .8)">8</text>
                                     <text transform="translate(10,6)" x="134" y="105" fill="rgba(127, 127, 127, .8)"/>
                                     <text transform="translate(10,6)" x="165" y="98.66666666666667" fill="rgba(127, 127, 127, .8)">1</text>
@@ -2919,6 +2919,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">JayabrataBasu/JayabrataBasu.github.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b736e43</div>
+                                        <div class="message">quick access panel is now access better on mobile</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">JayabrataBasu/My-Road-to-Madness</span>
                                     </div>
                                 </div>
@@ -2991,26 +3011,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">JayabrataBasu/My-Road-to-Madness</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0c5397f</div>
-                                        <div class="message">lots of exciting changes - 6DOF done</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -3034,7 +3034,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Sept 2025, 13:43:26 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Sept 2025, 14:40:34 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
