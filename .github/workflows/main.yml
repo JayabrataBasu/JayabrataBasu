@@ -15,13 +15,13 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: JayabrataBasu
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, community, repositories, metadata
           config_timezone: Asia/Calcutta
-          plugin_achievements: yes
+          plugin_achievements: no
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
-          plugin_activity: yes
+          plugin_activity: no
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 5
@@ -29,7 +29,7 @@ jobs:
           plugin_activity_visibility: all
           plugin_calendar: yes
           plugin_calendar_limit: 1
-          plugin_habits: yes
+          plugin_habits: no
           plugin_habits_charts_type: graph
           plugin_habits_days: 14
           plugin_habits_facts: yes
