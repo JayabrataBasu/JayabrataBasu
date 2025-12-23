@@ -14,10 +14,10 @@ I don't know how to name repos.
 <a href="https://www.leetcode.com/jayabratabasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jayabratabasu" height="30" width="40" /></a>
 </p>
 
- <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JayabrataBasu&show_icons=true&locale=en&layout=compact&theme=onedark"/>  |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                           [![GitHub Streak](https://github-readme-streak-stats-indol-nine.vercel.app?user=JayabrataBasu&theme=onedark)](https://git.io/streak-stats)                                           |  <img width="450em" align="center" alt="Github stats"  src="https://github-readme-stats.vercel.app/api?username=JayabrataBasu&show_icons=true&count_private=true&theme=onedark" />   |
 
+![JayabrataBasu's Stats](https://github-readme-stats.vercel.app/api?username=JayabrataBasu&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+
+![JayabrataBasu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayabrataBasu&theme=monokai&show_icons=true&hide_border=true&layout=compact)
 
 ## Advanced Stats
 ![Metrics](https://github.com/JayabrataBasu/JayabrataBasu/blob/main/github-metrics.svg)
@@ -26,20 +26,7 @@ I don't know how to name repos.
 
 
 
-## 🛠️ Technologies & Tools:
-- MERN Stack
-- Pytorch
-- TensorFlow
-- Natural Language Processing (NLP)
-- Machine Learning (ML)
-- Data Science
-- JavaScript
-- Python
-- HTML/CSS
-- Git/GitHub
-- Kotlin
-- Dart
-- C/C++
+
 
 <!---
 JayabrataBasu/JayabrataBasu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
