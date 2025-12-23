@@ -14,9 +14,7 @@ I don't know how to name repos.
 <a href="https://www.leetcode.com/jayabratabasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jayabratabasu" height="30" width="40" /></a>
 </p>
 
-
-## 🏆 GitHub Stats
-| <img width="450em" src="https://github-profile-trophy.vercel.app/?username=JayabrataBasu&theme=onedark&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JayabrataBasu&show_icons=true&locale=en&layout=compact&theme=onedark"/>  |
+ <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JayabrataBasu&show_icons=true&locale=en&layout=compact&theme=onedark"/>  |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                           [![GitHub Streak](https://github-readme-streak-stats-indol-nine.vercel.app?user=JayabrataBasu&theme=onedark)](https://git.io/streak-stats)                                           |  <img width="450em" align="center" alt="Github stats"  src="https://github-readme-stats.vercel.app/api?username=JayabrataBasu&show_icons=true&count_private=true&theme=onedark" />   |
 
