@@ -1,10 +1,8 @@
 <h1 align="center">I'm Jayabrata Basu</h1>
 
 
-May God grant me the strength to finsih what I started...
-
+Code to create
 Madness is the solution, not the problem...
-
 I don't know how to name repos.
 
 ## 🌐 Socials:
