@@ -1,7 +1,7 @@
 <h1 align="center">I'm Jayabrata Basu</h1>
 
 
-Code to create
+Commit only when something works. Both in life and on github.
 
 Madness is the solution, not the problem...
 
